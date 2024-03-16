@@ -1,13 +1,7 @@
-remote_theme: rundocs/jekyll-rtd-theme
-syntax_highlighter_style: colorful
+remote_theme: randreondra/jekyll-theme-simplex
 title: resume
 description: 政野玄空の職務経歴書
 
 site_author: Genku Masano
 repo_url: "https://genku-m.github.io/resume"
-edit_on_github: true
-github_docs_folder: true
-sticky_navigation: true
-prev_next_buttons_location: bottom
-search_enabled: true
-hljs_style: github-gist
+
