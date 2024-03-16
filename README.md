@@ -1,2 +1,2 @@
 # genku-m個人資料
-:doc:`resume`
+:doc:`職務経歴書`
