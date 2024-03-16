@@ -1,5 +1,5 @@
 {
-  "name": "resume",
+  "name": "profile",
   "packageManager": "yarn@4.1.1",
   "scripts": {
     "lint": "textlint . && markdownlint **/*.md"
